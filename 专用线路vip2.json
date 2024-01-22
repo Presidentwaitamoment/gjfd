@@ -1,0 +1,27 @@
+//=============单仓更新日期 2024/1/16=============
+
+{
+    "urls": [
+                          
+        {
+            "url": "https://pan.shangui.cc/f/mGY5hb/1111111.json",
+            "name": "线路1"
+        },
+        {
+            "url": "https://pan.shangui.cc/f/X1y5sd/8888888.json",
+            "name": "线路2"
+        }, 
+        {
+            "url": "https://pan.shangui.cc/f/8wK3Io/5555555.json",
+            "name": "线路3"
+        }, 
+        {
+            "url": "https://pan.shangui.cc/f/wBwJsg/6666666.json",
+            "name": "线路4"
+        }, 
+        {
+            "url": "暂时没有",
+            "name": "线路5"             
+        }
+    ]
+}
